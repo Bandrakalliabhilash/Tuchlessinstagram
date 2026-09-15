@@ -1,0 +1,14 @@
+Flask
+Flask-SQLAlchemy
+Flask-Cors
+Flask-JWT-Extended
+PyMySQL
+python-dotenv
+bcrypt
+opencv-python
+mediapipe
+numpy
+SpeechRecognition
+PyAudio
+pyautogui
+Pillow
